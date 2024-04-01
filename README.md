@@ -10,7 +10,7 @@
         <li>API support for programmatically shortening URLs.</li>
     </ul>
 
-  <h2>Usage</h2>
+  <h3>Usage</h3>
     <p>1. Clone the repository to your local machine:</p>
     <pre><code>https://github.com/Adi-spec-gif/Url_Shortner</code></pre>
     <p>2. Install the necessary dependencies using pip:</p>
